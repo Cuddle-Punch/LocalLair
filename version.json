@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
-  "url": "http://cuddlepunch.lol",
+  "updateurl": "http://cuddlepunch.lol",
   "brandurl": "http://cuddlepunch.lol",
-  "supportemail": "support@cuddlepunch.lol",
+  "support": "support@cuddlepunch.lol",
+  "bugreport": "support@cuddlepunch.lol",
   "notes": "Initial release."
 }
